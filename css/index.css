@@ -3,5 +3,8 @@ h1{
     font-size: 100px;
 }
 body{
-    background-color: brown;
+    background-color: green;
+}
+p{
+    color: blue;
 }
